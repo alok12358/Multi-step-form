@@ -30,12 +30,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Project screenshot](design/desktop-preview.jpg)
+[![Screenshot-2024-04-24-164502.png](https://i.postimg.cc/7h8ftGcf/Screenshot-2024-04-24-164502.png)](https://postimg.cc/sQmjvX3r)
 
 ### Links
 
 - Solution URL: [https://github.com/alok12358/Multi-step-form](https://github.com/alok12358/Multi-step-form)
-- Live Site URL: [https://alok12358.github.io/advanced-multi-step-form](https:///)
+- Live Site URL: [https://alok12358.github.io/Multi-step-form](https://https://alok12358.github.io/Multi-step-form/)
 
 ## My process
 
